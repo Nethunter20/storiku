@@ -3,7 +3,7 @@ $ pkg install python2
 $ pkg install  git
 $ pip2 install mechanize 
 $ pip2 install requests 
-$ git clone https://github.com/storiku/darkfb
+$ git clone https://github.com/Nethunter20/darkfb/
 $ cd darkfb 
 $ ls
 $ python2 Dark.py
@@ -13,5 +13,5 @@ $ python2 Dark.py
 
 
 
-Masukan ID: Termux
-Password: ID
+Masukan ID: Termux20
+Password: ID20
